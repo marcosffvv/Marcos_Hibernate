@@ -1,0 +1,3 @@
+com\practica5\Main.class
+com\practica5\model\Usuario.class
+com\practica5\util\HibernateUtil.class
